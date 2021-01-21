@@ -1,2 +1,10 @@
-#EXTINF:-1, TESTE
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:26
+#EXTINF:9.901,
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
+#EXTINF:9.901,
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
+#EXTINF:9.501,
 http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
